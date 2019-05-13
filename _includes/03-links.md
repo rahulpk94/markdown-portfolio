@@ -1,1 +1,1 @@
-![github](https://github.com/rahulpk94)
+[GitHub](https://github.com/rahulpk94)
